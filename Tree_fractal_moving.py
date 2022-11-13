@@ -2,7 +2,7 @@ import turtle as tr
 import sys
 import time
 
-# animation based on tree fractals
+# animation based on tree fractals - tree in wind
 
 def tree(lenght,layer,layers,angle=15,offset=0,tilt=0,thick_branches = False):
 
